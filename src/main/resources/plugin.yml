@@ -1,0 +1,8 @@
+name: Glattfly
+version: ${project.version}
+main: yoreni.glattfly.Glattfly
+api-version: 1.17
+depend:
+  - WorldGuard
+commands:
+  gfly:

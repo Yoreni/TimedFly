@@ -1,0 +1,13 @@
+#this value is in minecraft ticks
+#it is how often it will check that a players flying and subtract the ticks from the fly time
+#default 20 ticks
+update-interval: 20
+
+#this value is in seconds
+#this is the interval that everyones flight time will be saved to the config
+#default 120 seconds
+save-interval: 120
+
+#should we disable fall damage if the players flight runs out high up from the ground
+#default true
+disable-fall-damage: true
